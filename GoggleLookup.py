@@ -6,7 +6,7 @@ def load_library(filepath):
         library = json.load(f)
     return library
 
-def find_goggles(library, wavelength):
+def find_goggles(library, wavelength) -> int:
     results = []
     for goggle in library:
         for band in goggle["bands"]:
@@ -18,7 +18,14 @@ def find_goggles(library, wavelength):
                 which means i gotta just make sure theres only one band per goggle
                 but OD is diff for each band, even when theres overlap. (???)
                 '''
-    return results
+    if results:
+        return results
+    else:
+        return "there are no goggles that support this wavelength."
 
-lib = load_library(DEFAULT_LIBRARY)
-print(find_goggles(lib, 600))
+def main():
+    lib = load_library(DEFAULT_LIBRARY)
+    fart = int(input("input wavelength: "))
+    print(find_goggles(lib, fart))
+
+main()
