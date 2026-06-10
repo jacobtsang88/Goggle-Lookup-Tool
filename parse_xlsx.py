@@ -1,6 +1,6 @@
 '''
 use this to parse the .xlsx file first to create an easier to work with file
-heavily vibe-coded, don't really know how to do this fully 
+this is AI assisted for some of the formatting stuff bc its super funky (o~o)
 
 parse_xlsx.py  —  Run this ONCE to convert Laser_Goggles.xlsx into
                   goggle_library.json, a plain list that laser_goggles.py
@@ -23,7 +23,8 @@ except ImportError:
     sys.exit("pandas + openpyxl are needed only for this parser step.\n"
              "Run:  pip install pandas openpyxl")
 
-DEFAULT_XLSX   = "Laser_Goggles.xlsx"
+#change back to Laser_Goggles.xlsx if this new file is buggin out
+DEFAULT_XLSX   = "Laser_Goggles1.xlsx" 
 DEFAULT_JSON   = "goggle_library.json"
 SHEET_NAME     = "Catalog"
 MAX_BANDS      = 9   # spreadsheet supports up to λ9 / OD9
@@ -46,8 +47,7 @@ def parse_xlsx(filepath: str = DEFAULT_XLSX) -> list[dict]:
         }
 
     One entry per physical goggle row in the spreadsheet.
-    Bands with missing/non-numeric values are silently skipped.
-    Rows that are entirely empty are skipped.
+    Bands with missing/non-numeric values or entirely empty are skipped
     """
     if not os.path.exists(filepath):
         sys.exit(f"File not found: {filepath}")
