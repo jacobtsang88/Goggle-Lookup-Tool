@@ -29,8 +29,8 @@ def main():
     lib = load_library(DEFAULT_LIBRARY)
     tung = int(input("input wavelength: "))
     rizz = find_goggles(lib, tung)
-    for i in rizz:
-        print(f"goggle: {i}")
-        
+    for i in range(len(rizz)):
+        print(f"goggle {i + 1}: {rizz[i]}")
+
 
 main()
