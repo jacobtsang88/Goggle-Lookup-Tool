@@ -1,1 +1,944 @@
-#change to encrypted/protected file later.
+[
+  {
+    "product": "F36.T5K11.5000",
+    "manufacturer": "laservision",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 780.0,
+        "stop_nm": 800.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 800.0,
+        "stop_nm": 860.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 860.0,
+        "stop_nm": 900.0,
+        "od": 3.0
+      },
+      {
+        "start_nm": 900.0,
+        "stop_nm": 950.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 950.0,
+        "stop_nm": 1000.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 1000.0,
+        "stop_nm": 1600.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 1600.0,
+        "stop_nm": 2400.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2400.0,
+        "stop_nm": 2900.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2900.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "KMAZ-149C",
+    "manufacturer": "KENTEK",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 522.0,
+        "stop_nm": 675.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2100.0,
+        "stop_nm": 2200.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2900.0,
+        "stop_nm": 3200.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 580.0,
+        "stop_nm": 665.0,
+        "od": 7.0
+      }
+    ]
+  },
+  {
+    "product": "KMAZ-149C",
+    "manufacturer": "KENTEK",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 522.0,
+        "stop_nm": 675.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2100.0,
+        "stop_nm": 2200.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2900.0,
+        "stop_nm": 3200.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 580.0,
+        "stop_nm": 665.0,
+        "od": 7.0
+      }
+    ]
+  },
+  {
+    "product": "Kentek 1",
+    "manufacturer": "KENTEK",
+    "notes": "Broken-missing right side",
+    "bands": [
+      {
+        "start_nm": 5000.0,
+        "stop_nm": 11000.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 920.0,
+        "stop_nm": 1070.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 840.0,
+        "stop_nm": 920.0,
+        "od": 3.0
+      },
+      {
+        "start_nm": 520.0,
+        "stop_nm": 532.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 500.0,
+        "stop_nm": 520.0,
+        "od": 6.0
+      },
+      {
+        "start_nm": 514.5,
+        "stop_nm": 514.5,
+        "od": 7.0
+      },
+      {
+        "start_nm": 190.0,
+        "stop_nm": 490.0,
+        "od": 9.0
+      }
+    ]
+  },
+  {
+    "product": "Glendale 1",
+    "manufacturer": "Glendale",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 950.0,
+        "stop_nm": 2300.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2850.0,
+        "stop_nm": 10600.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 1040.0,
+        "stop_nm": 1550.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "Glendale 2",
+    "manufacturer": "Glendale",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 950.0,
+        "stop_nm": 2300.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2850.0,
+        "stop_nm": 10600.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 1040.0,
+        "stop_nm": 1550.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "Glendale 3",
+    "manufacturer": "Glendale",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 950.0,
+        "stop_nm": 2300.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2850.0,
+        "stop_nm": 10600.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 1040.0,
+        "stop_nm": 1550.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "Glendale 4",
+    "manufacturer": "Glendale",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 950.0,
+        "stop_nm": 2300.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2850.0,
+        "stop_nm": 10600.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 1040.0,
+        "stop_nm": 1550.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "Glendale 5",
+    "manufacturer": "Glendale",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 950.0,
+        "stop_nm": 2300.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2850.0,
+        "stop_nm": 10600.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 1040.0,
+        "stop_nm": 1550.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "Glendale 6",
+    "manufacturer": "Glendale",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 950.0,
+        "stop_nm": 2300.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2850.0,
+        "stop_nm": 10600.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 1040.0,
+        "stop_nm": 1550.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "Glendale 7",
+    "manufacturer": "Glendale",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 950.0,
+        "stop_nm": 2300.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2850.0,
+        "stop_nm": 10600.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 1040.0,
+        "stop_nm": 1550.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "Glendale 8",
+    "manufacturer": "Glendale",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 950.0,
+        "stop_nm": 2300.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2850.0,
+        "stop_nm": 10600.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 1040.0,
+        "stop_nm": 1550.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "KBS-C120C",
+    "manufacturer": "KENTEK",
+    "notes": "Crusty white substance on inside of lenses",
+    "bands": [
+      {
+        "start_nm": 532.0,
+        "stop_nm": 532.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 620.0,
+        "stop_nm": 655.0,
+        "od": 1.5
+      },
+      {
+        "start_nm": 690.0,
+        "stop_nm": 710.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 710.0,
+        "stop_nm": 1200.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 1200.0,
+        "stop_nm": 1700.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2100.0,
+        "stop_nm": 2200.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2900.0,
+        "stop_nm": 3200.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "Empty",
+    "manufacturer": "EMPTY",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 532.0,
+        "stop_nm": 532.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 755.0,
+        "stop_nm": 810.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 1065.0,
+        "stop_nm": 1065.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 10500.0,
+        "stop_nm": 10500.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "Glendale 9",
+    "manufacturer": "Glendale",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 450.0,
+        "stop_nm": 585.0,
+        "od": 4.5
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 190.0,
+        "stop_nm": 380.0,
+        "od": 7.0
+      }
+    ]
+  },
+  {
+    "product": "KMZ-C500C",
+    "manufacturer": "KENTEK",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 532.0,
+        "stop_nm": 532.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 755.0,
+        "stop_nm": 810.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 1064.0,
+        "stop_nm": 1064.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "KMZ-C500C",
+    "manufacturer": "KENTEK",
+    "notes": "Fingerprint on right lens",
+    "bands": [
+      {
+        "start_nm": 532.0,
+        "stop_nm": 532.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 755.0,
+        "stop_nm": 810.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 1064.0,
+        "stop_nm": 1064.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "KBS-C120C",
+    "manufacturer": "KENTEK",
+    "notes": "Crusty white substance on inside of lenses, incorrrectly labeled",
+    "bands": [
+      {
+        "start_nm": 532.0,
+        "stop_nm": 532.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 620.0,
+        "stop_nm": 655.0,
+        "od": 1.5
+      },
+      {
+        "start_nm": 690.0,
+        "stop_nm": 710.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 710.0,
+        "stop_nm": 1200.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 1200.0,
+        "stop_nm": 1700.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2100.0,
+        "stop_nm": 2200.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2900.0,
+        "stop_nm": 3200.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "KBS-C120C",
+    "manufacturer": "KENTEK",
+    "notes": "Crusty white substance on inside of lenses, incorrectly labeled",
+    "bands": [
+      {
+        "start_nm": 532.0,
+        "stop_nm": 532.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 620.0,
+        "stop_nm": 655.0,
+        "od": 1.5
+      },
+      {
+        "start_nm": 690.0,
+        "stop_nm": 710.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 710.0,
+        "stop_nm": 1200.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 1200.0,
+        "stop_nm": 1700.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2100.0,
+        "stop_nm": 2200.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2900.0,
+        "stop_nm": 3200.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 10600.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "KBS-215C",
+    "manufacturer": "KENTEK",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 200.0,
+        "stop_nm": 310.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 720.0,
+        "stop_nm": 1500.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 615.0,
+        "stop_nm": 663.0,
+        "od": 1.5
+      },
+      {
+        "start_nm": 664.0,
+        "stop_nm": 690.0,
+        "od": 3.5
+      },
+      {
+        "start_nm": 690.0,
+        "stop_nm": 719.0,
+        "od": 5.5
+      },
+      {
+        "start_nm": 1501.0,
+        "stop_nm": 1600.0,
+        "od": 6.0
+      }
+    ]
+  },
+  {
+    "product": "KBS-215C",
+    "manufacturer": "KENTEK",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 200.0,
+        "stop_nm": 310.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 720.0,
+        "stop_nm": 1500.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 615.0,
+        "stop_nm": 663.0,
+        "od": 1.5
+      },
+      {
+        "start_nm": 664.0,
+        "stop_nm": 690.0,
+        "od": 3.5
+      },
+      {
+        "start_nm": 690.0,
+        "stop_nm": 719.0,
+        "od": 5.5
+      },
+      {
+        "start_nm": 1501.0,
+        "stop_nm": 1600.0,
+        "od": 6.0
+      }
+    ]
+  },
+  {
+    "product": "KFH-215C",
+    "manufacturer": "KENTEK",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 200.0,
+        "stop_nm": 310.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 720.0,
+        "stop_nm": 1500.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 615.0,
+        "stop_nm": 663.0,
+        "od": 1.5
+      },
+      {
+        "start_nm": 664.0,
+        "stop_nm": 690.0,
+        "od": 3.5
+      },
+      {
+        "start_nm": 690.0,
+        "stop_nm": 719.0,
+        "od": 5.5
+      },
+      {
+        "start_nm": 1501.0,
+        "stop_nm": 1600.0,
+        "od": 6.0
+      },
+      {
+        "start_nm": 2100.0,
+        "stop_nm": 2350.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2800.0,
+        "stop_nm": 5200.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "KFH-215C",
+    "manufacturer": "KENTEK",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 200.0,
+        "stop_nm": 310.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 720.0,
+        "stop_nm": 1500.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 615.0,
+        "stop_nm": 663.0,
+        "od": 1.5
+      },
+      {
+        "start_nm": 664.0,
+        "stop_nm": 690.0,
+        "od": 3.5
+      },
+      {
+        "start_nm": 690.0,
+        "stop_nm": 719.0,
+        "od": 5.5
+      },
+      {
+        "start_nm": 1501.0,
+        "stop_nm": 1600.0,
+        "od": 6.0
+      },
+      {
+        "start_nm": 2100.0,
+        "stop_nm": 2350.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2800.0,
+        "stop_nm": 5200.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "F36.T5K11.5000",
+    "manufacturer": "laservision",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 780.0,
+        "stop_nm": 800.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 800.0,
+        "stop_nm": 860.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 860.0,
+        "stop_nm": 900.0,
+        "od": 3.0
+      },
+      {
+        "start_nm": 900.0,
+        "stop_nm": 950.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 950.0,
+        "stop_nm": 1000.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 1000.0,
+        "stop_nm": 1600.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 1600.0,
+        "stop_nm": 2400.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2400.0,
+        "stop_nm": 2900.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2900.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "F36.T5K11.5000",
+    "manufacturer": "laservision",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 780.0,
+        "stop_nm": 800.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 800.0,
+        "stop_nm": 860.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 860.0,
+        "stop_nm": 900.0,
+        "od": 3.0
+      },
+      {
+        "start_nm": 900.0,
+        "stop_nm": 950.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 950.0,
+        "stop_nm": 1000.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 1000.0,
+        "stop_nm": 1600.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 1600.0,
+        "stop_nm": 2400.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2400.0,
+        "stop_nm": 2900.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2900.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  },
+  {
+    "product": "F36.T5K11.5000",
+    "manufacturer": "laservision",
+    "notes": "",
+    "bands": [
+      {
+        "start_nm": 780.0,
+        "stop_nm": 800.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 800.0,
+        "stop_nm": 860.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 860.0,
+        "stop_nm": 900.0,
+        "od": 3.0
+      },
+      {
+        "start_nm": 900.0,
+        "stop_nm": 950.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 950.0,
+        "stop_nm": 1000.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 1000.0,
+        "stop_nm": 1600.0,
+        "od": 7.0
+      },
+      {
+        "start_nm": 1600.0,
+        "stop_nm": 2400.0,
+        "od": 5.0
+      },
+      {
+        "start_nm": 2400.0,
+        "stop_nm": 2900.0,
+        "od": 4.0
+      },
+      {
+        "start_nm": 2900.0,
+        "stop_nm": 10600.0,
+        "od": 5.0
+      }
+    ]
+  }
+]
