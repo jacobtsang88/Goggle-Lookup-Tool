@@ -1,2 +1,2 @@
 # Goggle-Lookup-Tool
-Given a wavelength, return the laser goggles in inventory that would work for that specified wavelength + their OD at that point.
+For laser optics, goggles are very important to minimize the risk of eye damage. Various goggles will have varying levels of success at filtering out certain wavelengths, which is usually measured by their OD (Optical Density). This program, when given a wavelength, will return the laser goggles in inventory that would work for that specified wavelength + their OD at that point.
