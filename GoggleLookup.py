@@ -18,9 +18,8 @@ def find_goggles(library, wavelength) -> int:
                 ODList.append(band["od"])
                 break 
                 '''
-                alright, so essentially there are overlaps in the bands sometimes
-                which means i gotta just make sure theres only one band per goggle
-                but OD is diff for each band, even when theres overlap. (???)
+                if theres 2 bands, pick the higher one. then put in
+                jupyter notebook for ease of use. six seven.
                 '''
     if goggleList:
         return goggleList, ODList
